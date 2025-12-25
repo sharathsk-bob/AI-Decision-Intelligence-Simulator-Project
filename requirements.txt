@@ -1,0 +1,10 @@
+langchain-text-splitters
+requests
+streamlit
+langchain>=0.2.0
+langchain-community
+langchain-groq
+sentence-transformers
+faiss-cpu
+pypdf
+python-dotenv

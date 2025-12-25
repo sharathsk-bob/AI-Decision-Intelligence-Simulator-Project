@@ -1,0 +1,55 @@
+Netflix price increase led to subscriber churn but improved ARPU short term.
+Uber surge pricing increased driver availability but caused temporary PR backlash.
+Apple premium pricing strengthened brand value but limited adoption among price-sensitive users.
+Amazon layoffs improved profitability but hurt internal morale.
+Tesla price cuts increased short-term demand but reduced margins.
+Spotify introduced ad-supported tier that boosted user growth but delayed monetization.
+Google Pixel reduced price globally which improved hardware adoption rate by 32%.
+Meta invested heavily in Metaverse leading to long-term R&D cost pressure.
+Zoom introduced enterprise plans increasing B2B revenue share.
+Airbnb reduced fees for Hosts boosting listings volume.
+Twitter offering paid Blue subscription caused mixed reactions.
+YouTube Premium bundle increased revenue while reducing ads dependency.
+Snapchat Spotlight creator payout boosted engagement temporarily.
+Disney+ price hike increased churn but improved revenue after bundling.
+Patagonia's sustainability branding brought high loyalty but smaller mass-market reach.
+Starbucks loyalty program increased repeat visits by ~40%.
+Microsoft shifting to subscription licensing grew predictable ARR revenue.
+Slack introduced free tier to acquire early enterprise users.
+OpenAI made ChatGPT free causing explosive growth, then monetized via Plus plans.
+LinkedIn introduced job posting premium boosting recruiter revenue.
+Nike direct-to-consumer strategy increased margins removing retail dependency.
+Xiaomi low-margin smartphone pricing captured mass India market quickly.
+Walmart cost leadership model drove high volume but thin margins.
+IKEA self-assembly reduced production cost but increased customer effort.
+Costco membership model created recurring revenue with bulk discounts.
+Tesla opening charging network increased adoption, reduced competitive advantage.
+SpaceX reusable rockets slashed launch cost and captured commercial demand.
+Amazon same-day delivery increased logistics expense but improved loyalty.
+Flipkart festival discounts drove massive GMV spikes but hurt profit.
+Swiggy/ Zomato deep discounts boosted user acquisition but unsustainable long-term.
+Uber Eats exited India after heavy losses due to competition.
+Paytm wallet adoption grew fast but profitability lagged until UPI integration.
+Google shutting down Google+ saved costs with low user traction.
+Meta copying Stories from Snapchat increased engagement on Instagram.
+Ola introduced electric scooters reducing fuel cost concerns but faced QC issues.
+Dettol aggressive marketing during pandemic increased revenue sharply.
+Unacademy layoffs tightened burn rate to extend runway during funding winter.
+Byju’s rapid acquisitions increased user base but added heavy debt load.
+Apple ecosystem lock-in increased customer lifetime value significantly.
+Netflix crackdown on password sharing increased revenue but upset user base initially.
+Starlink subscription-based satellite internet expanded into low-connectivity regions.
+Adobe moved from one-time licensing to Creative Cloud subscription increasing ARR.
+Tinder premium "Super Likes" increased monetization per user.
+AMD undercut Intel pricing winning gaming market share.
+Intel delayed chip manufacturing gradually lost performance leadership.
+Coca-Cola launching Coke Zero attracted calorie-conscious segment.
+Pepsi celebrity endorsements boosted brand glamour perception.
+Dominos 30-minute delivery promise increased sales but added operational risk.
+McDonalds menu localization boosted adoption in India.
+Tata Nano low-cost car failed due to "cheap" perception.
+Toyota lean manufacturing boosted efficiency & reduced waste.
+Netflix content investment strategy increased retention but required high capital.
+Sony PlayStation exclusive titles boosted console sales against Xbox.
+ChatGPT plugins created developer ecosystem increasing platform stickiness.
+Microsoft acquiring LinkedIn expanded enterprise reach & data advantage.
