@@ -3,7 +3,10 @@ from streamlit_extras.colored_header import colored_header
 from streamlit_extras.add_vertical_space import add_vertical_space
 from vector_store import build_vector_store
 from decision import analyze_decision
-from streamlit_javascript import st_javascript
+from dotenv import load_dotenv
+load_dotenv()
+import os
+
 st.set_page_config(page_title="AI Decision Intelligence Simulator", page_icon="🧠", layout="wide")
 
 # ------------------- CUSTOM CSS -------------------
@@ -78,7 +81,7 @@ colored_header(
 st.write("### 💼 Enter Business Decision to Analyze")
 
 # ------------------- Load Setup -------------------
-api_key = "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"
+api_key = os.getenv("GROQ_API_KEY")
 
 with open("data/business_cases.txt") as f:
     data = f.read()
